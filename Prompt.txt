@@ -5,7 +5,7 @@ called "earnometer" and it provides stock market data, analysis, and tools for i
 The new version will be a complete redesign of the existing site, with a focus on improving user 
 experience, performance, and adding new features. here is the website link: https://earnometer.com/
 
-to see the files that have already been created im attaching the link to my github repository: 
+to see the files that have already been created im attaching the link to my github repository: https://github.com/Samarthk04/BharatStocks
 
 you can refer to the project structure below to understand how the files are organized and 
 what each file does. crosscheck with the existing website and existing files to see what is missing.
